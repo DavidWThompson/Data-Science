@@ -15,3 +15,6 @@ While this accuracy is closer to the state of the art for 2010 than it is for to
 In this folder you will find a Jupiter Notebook of the full source. If you wish to run this code yourself, a word of warning:
 
 When run on this author's home PC (11th Gen Intel i5-11400F @ 2.60GHz and GeForce RTX 3060) the training of all 6 models did take hours rather than minutes.
+
+David Thompson 
+Feb 2025
